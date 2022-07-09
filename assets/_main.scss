@@ -109,7 +109,6 @@ a .book-icon {
   .book-menu-content {
     width: $menu-width;
     padding: $padding-16;
-    background: var(--body-background);
 
     @include fixed;
   }
